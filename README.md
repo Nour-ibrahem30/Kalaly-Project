@@ -27,15 +27,6 @@ The **Kalaly Project** features a modern and elegant layout, consisting of all e
 
 ---
 
-## 📷 Screenshots
-
-> *(You can add actual screenshots later)*
-
-![Home Screenshot](./screenshots/home.png)
-![Services Screenshot](./screenshots/services.png)
-
----
-
 ## 🚀 How to Use
 
 1. Clone the repository:
